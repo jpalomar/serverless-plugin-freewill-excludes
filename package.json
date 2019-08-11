@@ -1,6 +1,6 @@
 {
-  "name": "serverless-plugin-common-excludes",
-  "version": "2.4.0",
+  "name": "serverless-plugin-freewill-excludes",
+  "version": "3.0.0",
   "description": "Adds some common exclude items to your package exclude",
   "main": "common-excludes.js",
   "scripts": {
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dougmoscrop/serverless-plugin-common-excludes.git"
+    "url": "git+https://github.com/jpalomar/serverless-plugin-freewill-excludes.git"
   },
   "keywords": [
     "serverless",
     "plugin"
   ],
-  "author": "Doug Moscrop <doug.moscrop@gmail.com>",
+  "author": "JR <jr@freewill.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dougmoscrop/serverless-plugin-common-excludes/issues"
+    "url": "https://github.com/jpalomar/serverless-plugin-freewill-excludes/issues"
   },
-  "homepage": "https://github.com/dougmoscrop/serverless-plugin-common-excludes#readme",
+  "homepage": "https://github.com/jpalomar/serverless-plugin-freewill-excludes#readme",
   "devDependencies": {
     "eslint": "^5.14.1"
   }
