@@ -1,0 +1,6 @@
+# development only usages
+node_modules
+
+# consumers of this library don't need system files
+.*
+*.log

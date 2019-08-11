@@ -1,4 +1,4 @@
-# serverless-plugin-common-excludes
+# serverless-plugin-freewill-excludes
 
 This plugin adds some common items to the `package: exclude` configuration of your serverless project to make it smaller.
 
