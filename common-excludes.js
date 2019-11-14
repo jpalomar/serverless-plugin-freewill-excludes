@@ -41,6 +41,7 @@ module.exports = class FreewillExcludes {
           'sonar-project.properties',
           'rollup.config.*',
           'yarn.lock',
+          '*.sql',
           // common project directories
           'coverage/**',
           '.nyc_output/**',
